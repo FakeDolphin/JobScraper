@@ -1,2 +1,2 @@
-# indeed-scraper
-Indeed scraper
+# Job-scraper
+Job scraper
